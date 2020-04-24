@@ -17,6 +17,6 @@ public class Main {
 		System.out.println("  Jenis Kelamin  : " + jenisKelamin);
 		System.out.println("  Sudah Menikah  : " + sudahMenikah);
 
-	}
+	} 
 
 }
